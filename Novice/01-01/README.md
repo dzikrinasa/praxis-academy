@@ -1,6 +1,6 @@
 # praxis-academy
 
-Bootcamp Day 1
+BOOTCAMP DAY 1
 
 ~Pengenalan Jenis Pemrograman
 
