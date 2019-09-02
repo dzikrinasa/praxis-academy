@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>belajar js</title>
+  </head>
+  <body style="background-color: #d5d7f7;">
+    <h1></h1>
+
+    <button>Ganti Nama</button>
+    <br><br>
+
+
+
+  <h3>EXERCISE BAB 2 PROGRAM STRUCTURE</h3>
+  </body>
+
+  <script src="scripts/main.js"></script>
+  <script type="text/javascript">
+  document.write("Perulangan Segitiga<br>");
+  for (var a=1;a<=7;a++){
+      for (var b=1;b<=a;b++){
+          document.write("#");
+      }
+      document.write("<br>");
+  }
+  </script>
+
+
+  <script type="text/javascript">
+  document.write("<br>Perulangan ChessBoard<br>");
+  var size = 8;
+
+var board = "";
+
+for (var i = 0; i < size; i++) {
+for (var j = 0; j < size; j++) {
+  if ((i + j) % 2 == 0)
+    board += document.write("&nbsp;");
+  else
+    board += document.write("#");
+}
+board += document.write("<br>");
+}
+console.log(board);
+  </script>
+
+
+</html>
