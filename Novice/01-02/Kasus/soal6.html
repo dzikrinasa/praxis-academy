@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Soal 6</title>
+  </head>
+  <body>
+
+  </body>
+  <script type="text/javascript">
+  var students = [['David', 80], ['Vinoth', 90], ['Divya', 100], ['Ishitha', 100], ['Thomas', 90]];
+  document.write(students);
+
+var Avgmarks = 0;
+
+for (var i=0; i < students.length; i++) {
+      Avgmarks += students[i][1];
+      var avg = (Avgmarks/students.length);
+}
+
+console.log("Nilai rata rata : " + (Avgmarks)/students.length);
+
+      if (avg < 60){
+        console.log("Nilai : F");
+        }
+      else if (avg < 70) {
+              console.log("Nilai : D");
+                }
+      else if (avg < 80)
+           {
+              console.log("Nilai : C");
+      } else if (avg < 90) {
+              console.log("Nilai : B");
+      } else if (avg < 100) {
+              console.log("Nilai : A");
+}
+  </script>
+</html>

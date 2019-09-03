@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Soal 1</title>
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+var num1, num2;
+num1 = window.prompt("Masukan Bilangan Pertama", "0");
+num2 = window.prompt("Masukan Bilangan Kedua", "0");
+
+if(parseInt(num1, 10) > parseInt(num2, 10))
+  {
+  console.log("Bilangan Yang Lebih besar dari  "+ num1+ " & "+ num2+ " Adalah "+ num1+ ".");
+  document.write("Bilangan Yang Lebih besar dari  "+ num1+ " & "+ num2+ " Adalah "+ num1+ ".");
+  }
+else
+  if(parseInt(num2, 10) > parseInt(num1, 10))
+  {
+  console.log("Bilangan Yang Lebih besar dari  "+ num1+" & "+ num2+ " Adalah "+ num2+ ".");
+  document.write("Bilangan Yang Lebih besar dari  "+ num1+" & "+ num2+ " Adalah "+ num2+ ".");
+  }
+else
+  {
+   console.log("Bilangan  "+ num1+ " & "+num2+ " Bernilai Sama");
+   document.write("Bilangan  "+ num1+ " & "+num2+ " Bernilai Sama");
+  }
+
+</script>
+</html>
