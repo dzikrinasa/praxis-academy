@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+  <h2>Converter Suhu</h2>
+  <h3>Dari Celcius ke Fahrenheit</h3>
+  <script type="text/javascript">
+
+    function celsiusToFahrenheit(celsius) {
+    celsius = prompt("Input derajat Celcius");
+    var celsiusInF = (celsius*9)/5 + 32;
+    console.log(celsius + '°C Sama dengan ' + celsiusInF + '°F');
+    document.write(celsius + '°C Sama dengan ' + celsiusInF + '°F');
+    }
+    celsiusToFahrenheit();
+
+  </script>
+  <h3>Dari Fahrenheit ke Celcius</h3>
+  <script type="text/javascript">
+  (function fahrenheitToCelsius(fahrenheit) {
+  fahrenheit = prompt("input derajat fahrenheit");
+  var fahrenheitInC = ((fahrenheit - 32)*5)/9;
+  console.log(fahrenheit + '°F Sama dengan ' + fahrenheitInC + '°C');
+  document.write(fahrenheit + '°F Sama dengan ' + fahrenheitInC + '°C');
+  })();
+  </script>
+
+  <h2>Penghitung Luas</h2>
+  <script type="text/javascript">
+
+  (function calcGeometry(radius) {
+  radius=prompt("Jari Jari Lingkaran");
+  var circumference = Math.PI * 2*radius;
+  console.log("Keliling Lingkaran : " + circumference);
+  document.write(" Keliling Lingkaran : " + circumference);
+  var area = Math.PI * radius*radius;
+  console.log("Lus Lingkaran : " + area);
+  document.write(" Luas Lingkaran : " + circumference);
+})();
+  </script>
+
+  <h2>Menghitung Kebutuhan Hidup</h2>
+  <script type="text/javascript">
+  function calculateSupply(age, numPerDay) {
+    age=prompt("Umur Anda?");
+    numPerDay=prompt("Makan Berapa kali PerHari");
+
+  var maxAge = 100;
+  var totalNeeded = (numPerDay * 365) * (maxAge - age);
+  var message = 'Kamu perlu Makan sebanyak ' + totalNeeded + ' kali untuk Mencapai Umur ' + maxAge + ' Tahun ';
+  console.log(message);
+  document.write(message);
+  }
+
+  calculateSupply();
+  </script>
+  </body>
+</html>

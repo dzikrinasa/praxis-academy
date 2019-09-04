@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Day 3</title>
+  </head>
+  <body>
+    <h3>No 1</h3>
+    <script type="text/javascript">
+    function test(){
+        console.log("test");
+        document.write("Test 1 ");
+      }
+    test();
+
+    function nama(jon){
+      document.write(jon);
+    }
+    nama('jon');
+    </script>
+    <h3>No 2</h3>
+    <script type="text/javascript">
+    x= prompt("masukan ");
+    const square = function(x) {
+      document.write("Hasil Perkalian : ");
+    return x * x;
+    };
+    document.write(square(x));
+
+    document.write("<br>");
+
+    function myFunc(mobil) {
+      mobil.brand = " Toyota";
+    }
+
+    var mycar = {
+      brand: "Honda",
+      model: "Accord",
+      year: 1998
+    };
+
+    document.write(mycar.brand);
+
+    myFunc(mycar);
+
+    document.write(mycar.brand);
+    </script>
+
+    <h3>No 3</h3>
+    <script type="text/javascript">
+    /**
+* VARIABEL HOISTING
+*/
+var x;
+console.log(x === undefined); // true
+x = 3;
+document.write(x);
+
+var myvar = ' my value <br>';
+
+(function() {
+var myvar;
+console.log(myvar); // undefined
+myvar = 'local value';
+})();
+document.write(myvar);
+
+//FUNCTION HOISTING
+foo();
+
+function foo() {
+  document.write('bar');
+}
+
+baz();
+
+var baz = function() {
+ console.log('bar2');
+};
+    </script>
+
+    <h3>No 4</h3>
+    <script type="text/javascript">
+    //awto manggil fungsi
+    (function hi() {
+     document.write("Hai");
+   })();
+    </script>
+
+    <h3>No 5</h3>
+    <script type="text/javascript">
+    (function sayHiBye(firstName, lastName) {
+      firstName = "joni";
+      lastName = "jon";
+      function getFullName() {
+        return firstName + " " + lastName;
+      }
+
+      alert( "Hello, " + getFullName() );
+      alert( "Bye, " + getFullName() );
+      document.write(firstName,lastName);
+    })();
+
+    let name = "John";
+    function sayHi() {
+      alert("Hi, " + name);
+    }
+    name = " Pete";
+    document.write(name);
+    sayHi();
+    </script>
+
+    <h3>No 6</h3>
+    <script type="text/javascript">
+    function* generator(i) {
+    yield i;
+    yield i + 10;
+    yield i + 20;
+
+    }
+
+    var gen = generator(10);
+
+    document.write(gen.next().value);
+
+    document.write(gen.next().value);
+
+    document.write(gen.next().value);
+    // expected output: 20
+    </script>
+    <h3>No 7</h3>
+
+    <button type="button" id="press" name="button">press</button>
+
+    <script type="text/javascript">
+    var button = document.getElementById('press');
+    button.addEventListener('click', () => {
+    this.classList.toggle('on');
+    });
+
+    let People = function(person, age) {
+        this.person = person;
+        this.age = age;
+        this.info = function() {
+
+         // logs People
+         document.write(this);
+
+         setTimeout(function() {
+            // here this!=People
+           document.write(this.person + " is " + this.age +
+                                              " years old");
+          }, 10000);
+        }
+    }
+   let person1 = new People('John', 21);
+
+// logs : undefined is undefined years old after 3 seconds
+person1.info();
+
+    var feedTheCat = (cat) => {
+      if (cat === 'hungry') {
+        return 'Feed the cat';
+      } else {
+        return 'Do not feed the cat';
+      }
+    }
+    </script>
+
+    <h3>No 8</h3>
+    <script type="text/javascript">
+    function exampleScope() {
+var foo; // Declaration
+foo = document.write("hi"); // Initialisation
+
+var bar = document.write("hello"); // Declaration & Initialisation in one step
+}
+exampleScope();
+    </script>
+  </body>
+</html>
