@@ -1,6 +1,5 @@
-# praxis-academy
+# BOOTCAMP DAY 2
 
-BOOTCAMP DAY 2
 
 ~Mencoba Berbagai Jenis perulangan pada javascript
 
