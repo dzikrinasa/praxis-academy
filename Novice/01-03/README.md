@@ -1,6 +1,4 @@
-# praxis-academy
-
-BOOTCAMP DAY 3
+# Bootcamp Day 3
 
 ~Mencoba Berbagai Jenis Fungsi pada javascript
 
