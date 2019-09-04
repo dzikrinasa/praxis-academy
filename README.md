@@ -1,4 +1,4 @@
-# praxis-academy
+# Praxis Academy
 
 Bootcamp Praxis Academy
 
