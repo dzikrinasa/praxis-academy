@@ -1,16 +1,14 @@
 # praxis-academy
 
-BOOTCAMP DAY 1
+BOOTCAMP DAY 2
 
-~Pengenalan Jenis Pemrograman
+~Mencoba Berbagai Jenis perulangan pada javascript
 
-~Penjelasan Dasar Javascript
+~Penggunaan Pengendali alur/Percabangan pada javascript
 
-~Install Node JS
+~Penggunaan Node JS
 
-~Penggunaan Text Editor
+~Latihan Soal Perulangan & Pengendali Alur
 
-~Latihan Soal Javascript
-
-~Menyelesaikan Kasus
+~Mengerjakan Kasus
 
