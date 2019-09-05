@@ -1,4 +1,4 @@
-# Bootcamp Day 3
+# Bootcamp Day 4
 
 ~Mempelajari fungsi mendasar pada javascript
 
