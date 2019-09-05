@@ -1,12 +1,18 @@
 # Bootcamp Day 3
 
-~Mencoba Berbagai Jenis Fungsi pada javascript
+~Mempelajari fungsi mendasar pada javascript
 
-~Penggunaan Pengendali alur/Percabangan pada javascript
+~variabel dan fungsi hoisting
 
-~Penggunaan Node JS
+~Menjalankan fungsi itu sendiri tanpa harus di panggil kembali
 
-~Latihan Soal Perulangan & Pengendali Alur
+~Fungsi di dalam fungsi 
 
-~Mengerjakan Kasus
+~Closure pada javascript
+
+~generator function
+
+~Latihan Soal Tentang Fungsi
+
+~Kasus Berdasarkan Materi
 
