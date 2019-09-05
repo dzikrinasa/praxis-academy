@@ -1,18 +1,15 @@
 # Bootcamp Day 4
 
-~Mempelajari fungsi mendasar pada javascript
+~Penjelasan String  Pada Javascript
 
-~variabel dan fungsi hoisting
+~String Sebagai Objek
 
-~Menjalankan fungsi itu sendiri tanpa harus di panggil kembali
+~Pengenalan materi Regular Expression/RegEx 
 
-~Fungsi di dalam fungsi 
+~Manipulasi String Menggunakan RegEx
 
-~Closure pada javascript
+~Pencarian String Menggunakan Regex
 
-~generator function
+~Latihan Soal Tentang String dan RegEx
 
-~Latihan Soal Tentang Fungsi
-
-~Kasus Berdasarkan Materi
-
+~Mengerjakan Kasus RegEx
