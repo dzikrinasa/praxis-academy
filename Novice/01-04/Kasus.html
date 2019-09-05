@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  </head>
+  <body>
+    <h3>1. Cek Plat Nomor Kendaraan</h3>
+    <p>Contoh : AB 5435 CD</p>
+    <script type="text/javascript">
+    var re = /(\w+)\s(\d{4})\s(\w+)/g;
+    function testInfo(noInput) {
+      var OK = re.exec(noInput.value);
+      if (!OK)
+        window.alert( ' Nomor Kendaraan '+ noInput.value + ' bukan dari Indonesia' );
+      else
+        window.alert('Plat Nomor Kendaraan ' + OK[1]+' '+ OK[2] +' '+ OK[3] + ' Berasal Dari Indonesia');
+    }
+    </script>
+    <form action="#">
+      <input id="no"><button onclick="testInfo(document.getElementById('no'));">Check</button>
+    </form>
+    <br>
+    <script type="text/javascript">
+        var re = /(\w+)\@(\w+)\.(\w+)/g;
+        function testInfo(emailInput) {
+          var OK = re.exec(emailInput.value);
+          if (!OK)
+            window.alert(emailInput.value + ' Email yang anda inputkan salah');
+          else
+            window.alert('Hallo Username Anda Adalah ' + OK[1] + ' domain anda adalah '+ OK[2] +'.'+ OK[3]);
+        }
+      </script>
+    <h3>2. Validasi Email</h3>
+    <p>Contoh : bambang@gmail.com</p>
+    <form action="#">
+      <input id="email"><button onclick="testInfo(document.getElementById('email'));">Check</button>
+    </form>
+    <br>
+
+  </body>
+
+  </body>
+</html>
