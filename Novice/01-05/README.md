@@ -1,4 +1,4 @@
-# Bootcamp Day 3
+# Bootcamp Day 5
 
 ~Mempelajari objek dan array pada javascript
 
