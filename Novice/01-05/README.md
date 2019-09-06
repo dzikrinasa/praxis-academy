@@ -1,18 +1,16 @@
 # Bootcamp Day 3
 
-~Mempelajari fungsi mendasar pada javascript
+~Mempelajari objek dan array pada javascript
 
-~variabel dan fungsi hoisting
+~Penggunaan Iterable
 
-~Menjalankan fungsi itu sendiri tanpa harus di panggil kembali
+~Map dan Set
 
-~Fungsi di dalam fungsi 
+~WeakMap dan Weak Set 
 
-~Closure pada javascript
+~Date Time pada javascript
 
-~generator function
+~Latihan Soal 
 
-~Latihan Soal Tentang Fungsi
-
-~Kasus Berdasarkan Materi
+~Mengerjakan Kasus Yang diberikan
 
