@@ -18,9 +18,6 @@ if (this.hasOwnProperty('-prop-value')) {
 </script>
   </body>
 
-
-
-
   <script type="text/javascript">
   var Person = function(name) {
     this.name = name;
@@ -39,11 +36,8 @@ if (this.hasOwnProperty('-prop-value')) {
     };
 
     Employee.prototype = Object.create(Person.prototype);
-    Employee.prototype.constructor = Employee; //If you don't set Object.prototype.constructor to Employee,
-                                             //it will take prototype.constructor of Person (parent).
-                                             //To avoid that, we set the prototype.constructor to Employee (child).
-
-
+    Employee.prototype.constructor = Employee;
+    
     Employee.prototype.greet = function() {
     if (this.canTalk) {
       console.log('Hi, I am ' + this.name + ', the ' + this.title);
@@ -56,10 +50,7 @@ if (this.hasOwnProperty('-prop-value')) {
     };
 
     Customer.prototype = Object.create(Person.prototype);
-    Customer.prototype.constructor = Customer; //If you don't set Object.prototype.constructor to Customer,
-                                             //it will take prototype.constructor of Person (parent).
-                                             //To avoid that, we set the prototype.constructor to Customer (child).
-
+    Customer.prototype.constructor = Customer;
 
     var Mime = function(name) {
     Person.call(this, name);
@@ -67,10 +58,7 @@ if (this.hasOwnProperty('-prop-value')) {
     };
 
     Mime.prototype = Object.create(Person.prototype);
-    Mime.prototype.constructor = Mime; //If you don't set Object.prototype.constructor to Mime,
-                                     //it will take prototype.constructor of Person (parent).
-                                     //To avoid that, we set the prototype.constructor to Mime (child).
-
+    Mime.prototype.constructor = Mime; 
 
     var bob = new Employee('Bob', 'Builder');
     var joe = new Customer('Joe');
