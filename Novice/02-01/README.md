@@ -1,16 +1,15 @@
-# Bootcamp Day 5
+# Bootcamp Day 8
 
-~Mempelajari objek dan array pada javascript
+~Memahami Konsep OOP pada JavaScript
 
-~Penggunaan Iterable
+~ Prototype pada Javascript
 
-~Map dan Set
+~implementasi OOP berbasis Prototype
 
-~WeakMap dan Weak Set 
+~OOP Prototype Inheritance/Turunan
 
-~Date Time pada javascript
+~kesulitan Saat run code di node js
 
-~Latihan Soal 
+~Latihan Soal Tentang OOP
 
-~Mengerjakan Kasus Yang diberikan
-
+~Mengerjakan Kasus Inheritance Prototype
