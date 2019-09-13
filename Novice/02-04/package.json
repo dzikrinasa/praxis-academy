@@ -1,0 +1,15 @@
+{
+  "name": "02-04",
+  "version": "1.0.0",
+  "description": "Persamaan Library  Ramda, Underscore, dan lodash:\r ~ Mendukung dan mempermudah dalam Pemrograman Fungsional\r ~ Penulisan syntax cukup mirip/dekat\r ~ dapat digunakan untuk fungsi fungsi seperti immutability, carrying dsb",
+  "main": "getData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
