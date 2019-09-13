@@ -1,4 +1,11 @@
-Persamaan Library  Ramda, Underscore, dan lodash:
-~ Mendukung dan mempermudah dalam Pemrograman Fungsional
-~ Penulisan syntax cukup mirip/dekat
-~ dapat digunakan untuk fungsi fungsi seperti immutability, carrying dsb
+# Bootcamp Day 9
+
+~ pengenalan asyncronus & non blocking I/O
+
+~ Teknik dalam pemrograman Asyncronus di java script
+
+~ konsep Callback, promise, dan Async/Await
+
+~ Latihan mencoba asyncronus progrmamming
+
+~ mengerjakan Kasus
