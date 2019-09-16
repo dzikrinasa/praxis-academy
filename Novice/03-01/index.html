@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <p>Latihan</p>
+
+    <form>
+      <input type="button" value="Try Catch" onclick="trycatch();" /><br>
+      <input type="button" value="finally" onclick="final();" /><br>
+      <input type="button" value="Throw Catch" onclick="tc();" /><br>
+      <input type="button" value="One Error" onclick="myFunc();" /><br>
+      <input type="button" value="Latihan" onclick="fu();" /><br>
+    </form>    
+</body>
+<script src="kasus.js"></script>
+<script src="oneerror.js"></script>
+<script src="throwcatch.js"></script>
+<script src="trycatch.js"></script>
+<script src="trycatchfinally.js"></script>
+<script src="rethrowing.js"></script>
+<script src="latihan.js"></script>
+<script src="inherit.js"></script>
+<script>
+    function badFunc(){
+        alert("Something went wrong");
+    }
+    window.onerror = function(message, url, line, col, error) {
+      alert(`${message}\n At ${line}:${col} of ${url}`);
+    };
+  
+    function readData() {
+      badFunc(); // Whoops, something went wrong!
+    }
+  
+    readData();
+  </script>
+</html>
