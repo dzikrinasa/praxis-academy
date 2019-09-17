@@ -1,4 +1,4 @@
-# Bootcamp Day 10
+# Bootcamp Day 12
 
 ~ pengenalan module pada javascript
 

@@ -1,4 +1,4 @@
-# Bootcamp Day 9
+# Bootcamp Day 10
 
 ### Persamaan Library  Ramda, Underscore, dan lodash:
 
