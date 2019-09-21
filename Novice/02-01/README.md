@@ -1,15 +1,17 @@
 # Bootcamp Day 8
 
-~Memahami Konsep OOP pada JavaScript
+## Minggu Kedua Hari ke 1
 
-~ Prototype pada Javascript
+* Memahami Konsep OOP pada JavaScript
 
-~implementasi OOP berbasis Prototype
+* Prototype pada Javascript
 
-~OOP Prototype Inheritance/Turunan
+* implementasi OOP berbasis Prototype
 
-~kesulitan Saat run code di node js
+* OOP Prototype Inheritance/Turunan
 
-~Latihan Soal Tentang OOP
+* kesulitan Saat run code di node js
 
-~Mengerjakan Kasus Inheritance Prototype
+* Latihan Soal Tentang OOP
+
+* Mengerjakan Kasus Inheritance Prototype

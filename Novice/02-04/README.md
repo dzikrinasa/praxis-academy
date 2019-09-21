@@ -1,11 +1,13 @@
 # Bootcamp Day 11
 
-~ pengenalan asyncronus & non blocking I/O
+## Minggu Kedua Hari ke 4
 
-~ Teknik dalam pemrograman Asyncronus di java script
+* pengenalan asyncronus & non blocking I/O
 
-~ konsep Callback, promise, dan Async/Await
+* Teknik dalam pemrograman Asyncronus di java script
 
-~ Latihan mencoba asyncronus progrmamming
+* konsep Callback, promise, dan Async/Await
 
-~ mengerjakan Kasus
+* Latihan mencoba asyncronus progrmamming
+
+* mengerjakan Kasus

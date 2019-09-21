@@ -1,16 +1,18 @@
 # Bootcamp Day 5
 
-~Mempelajari objek dan array pada javascript
+## Minggu Pertama Hari ke 5
 
-~Penggunaan Iterable
+* Mempelajari objek dan array pada javascript
 
-~Map dan Set
+* Penggunaan Iterable
 
-~WeakMap dan Weak Set 
+* Map dan Set
 
-~Date Time pada javascript
+* WeakMap dan Weak Set 
 
-~Latihan Soal 
+* Date Time pada javascript
 
-~Mengerjakan Kasus Yang diberikan
+* Latihan Soal 
+
+* Mengerjakan Kasus Yang diberikan
 

@@ -1,9 +1,11 @@
 # Bootcamp Day 12
 
-~ pengenalan module pada javascript
+# Minggu Kedua Hari ke 5
 
-~ implementasi Module pada javascript
+* pengenalan module pada javascript
 
-~ penggunaan module di browser/node js
+* implementasi Module pada javascript
 
-~ latihan soal module
+* penggunaan module di browser/node js
+
+* latihan soal module

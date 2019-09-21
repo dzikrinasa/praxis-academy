@@ -1,17 +1,21 @@
 # Bootcamp Day 10
 
-### Persamaan Library  Ramda, Underscore, dan lodash:
+## Minggu Kedua Hari ke 3
 
-#### Mendukung dan mempermudah dalam Pemrograman Fungsional
+* Mempelajari tentang Functional Programming
 
-#### Penulisan syntax cukup mirip/dekat
+* fitur fitur pada fungctional programing
 
-#### dapat digunakan untuk fitur fitur seperti immutability, carrying dsb
+* library pada fungctional programming
 
-~ Mempelajari tentang Functional Programming
+* Persamaan Library  Ramda, Underscore, dan lodash:
 
-~ fitur fitur pada fungctional programing
+```
+ Mendukung dan mempermudah dalam Pemrograman Fungsional
 
-~ library pada fungctional programming
+ Penulisan syntax cukup mirip/dekat
 
-~ Latihan & kasus tentang functional programming
+ dapat digunakan untuk fitur fitur seperti immutability, carrying, etc
+```
+
+* Latihan & kasus tentang functional programming

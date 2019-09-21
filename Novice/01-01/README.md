@@ -1,16 +1,16 @@
 # BOOTCAMP DAY 1
 
+## Minggu Pertama Hari ke 1
 
+* Pengenalan Jenis Pemrograman
 
-~Pengenalan Jenis Pemrograman
+* Penjelasan Dasar Javascript
 
-~Penjelasan Dasar Javascript
+* Install Node JS
 
-~Install Node JS
+* Penggunaan Text Editor
 
-~Penggunaan Text Editor
+* Latihan Soal Javascript
 
-~Latihan Soal Javascript
-
-~Menyelesaikan Kasus
+* Menyelesaikan Kasus
 

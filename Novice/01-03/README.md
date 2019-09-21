@@ -1,18 +1,20 @@
 # Bootcamp Day 3
 
-~Mempelajari fungsi mendasar pada javascript
+## Minggu Pertama Hari ke 3
 
-~variabel dan fungsi hoisting
+* Mempelajari fungsi mendasar pada javascript
 
-~Menjalankan fungsi itu sendiri tanpa harus di panggil kembali
+* variabel dan fungsi hoisting
 
-~Fungsi di dalam fungsi 
+* Menjalankan fungsi itu sendiri tanpa harus di panggil kembali
 
-~Closure pada javascript
+* Fungsi di dalam fungsi 
 
-~generator function
+* Closure pada javascript
 
-~Latihan Soal Tentang Fungsi
+* generator function
 
-~Kasus Berdasarkan Materi
+* Latihan Soal Tentang Fungsi
+
+* Kasus Berdasarkan Materi
 

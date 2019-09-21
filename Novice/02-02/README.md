@@ -1,14 +1,16 @@
 # Bootcamp Day 9
 
-~ Penggunaan Class pada objek di javascript
+## Minggu Kedua Hari ke 2
 
-~ membuat class dan konstruktor 
+* Penggunaan Class pada objek di javascript
 
-~ properties pada class
+* membuat class dan konstruktor 
 
-~ inherit class
+* properties pada class
 
-~ Latihan Soal
+* inherit class
 
-~ Mengerjakan Kasus
+* Latihan Soal
+
+* Mengerjakan Kasus
 

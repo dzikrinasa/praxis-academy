@@ -1,15 +1,17 @@
 # Bootcamp Day 4
 
-~Penjelasan String  Pada Javascript
+## Minggu Pertama Hari ke 4
 
-~String Sebagai Objek
+* Penjelasan String  Pada Javascript
 
-~Pengenalan materi Regular Expression/RegEx 
+* String Sebagai Objek
 
-~Manipulasi String Menggunakan RegEx
+* Pengenalan materi Regular Expression/RegEx 
 
-~Pencarian String Menggunakan Regex
+* Manipulasi String Menggunakan RegEx
 
-~Latihan Soal Tentang String dan RegEx
+* Pencarian String Menggunakan Regex
 
-~Mengerjakan Kasus RegEx
+* Latihan Soal Tentang String dan RegEx
+
+* Mengerjakan Kasus RegEx
