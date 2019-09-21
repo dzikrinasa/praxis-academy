@@ -1,18 +1,10 @@
 # Praxis Academy
 
-Bootcamp Praxis Academy
+## Bootcamp Praxis Academy
 
-Front End Developer
+## Front End Developer
 
-Dzikri Nandi Asa
-
-
-
-
-
-
-
-
-
-Instagram: dzikrinasa
-
+### Dzikri Nandi Asa
+```
+Instagram : dzikrinasa
+```
