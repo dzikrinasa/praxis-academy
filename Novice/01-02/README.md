@@ -1,13 +1,13 @@
 # BOOTCAMP DAY 2
 
 
-~Mencoba Berbagai Jenis perulangan pada javascript
+* Mencoba Berbagai Jenis perulangan pada javascript
 
-~Penggunaan Pengendali alur/Percabangan pada javascript
+* Penggunaan Pengendali alur/Percabangan pada javascript
 
-~Penggunaan Node JS
+* Penggunaan Node JS
 
-~Latihan Soal Perulangan & Pengendali Alur
+* Latihan Soal Perulangan & Pengendali Alur
 
-~Mengerjakan Kasus
+* Mengerjakan Kasus
 
