@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
-import buefy from './plugin/buefy'
 
 Vue.config.productionTip = false
 
