@@ -1,4 +1,3 @@
-# kasus
 
 ## Project setup
 ```
