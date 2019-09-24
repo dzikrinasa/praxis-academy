@@ -1,4 +1,4 @@
-# latihan
+# mixin
 
 ## Project setup
 ```
